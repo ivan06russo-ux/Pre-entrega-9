@@ -47,18 +47,18 @@ El trabajo se organiza en tres etapas principales:
 ## Tecnologías utilizadas
 
   -----------------------------------------------------------------------
-  Tecnología                          Uso en el proyecto
+  Tecnología   Y                        Uso en el proyecto
   ----------------------------------------------------------------------
-  SQL Server                          Consulta, filtrado, agregación y
+  SQL Server:                          Consulta, filtrado, agregación y
                                       combinación de datos relacionales.
 
-  Power BI Desktop                    Modelado, análisis y visualización
+  Power BI Desktop:                    Modelado, análisis y visualización
                                       de los datos.
 
-  Power Query                         Limpieza y transformación de datos
+  Power Query:                         Limpieza y transformación de datos
                                       durante el proceso ETL.
 
- GitHub                               Control de versiones y
+ GitHub:                               Control de versiones y
                                       documentación del proyecto.
   -----------------------------------------------------------------------
 
