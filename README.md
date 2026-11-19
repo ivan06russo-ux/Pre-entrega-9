@@ -48,7 +48,7 @@ El trabajo se organiza en tres etapas principales:
 
   -----------------------------------------------------------------------
   Tecnología                          Uso en el proyecto
-  ----------------------------------- -----------------------------------
+  ----------------------------------------------------------------------
   SQL Server                          Consulta, filtrado, agregación y
                                       combinación de datos relacionales.
 
