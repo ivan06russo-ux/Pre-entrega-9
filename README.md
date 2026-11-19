@@ -120,10 +120,6 @@ Las consultas utilizan operaciones como `WHERE`, `GROUP BY`, `HAVING` e
 4.  Seleccioná **Actualizar** para cargar los datos transformados.
 5.  Explorá las páginas, filtros e indicadores del reporte.
 
-> Los nombres de archivos y rutas de esta guía son referenciales. Deben
-> coincidir con la estructura real del repositorio antes de publicar el
-> proyecto.
-
 ## Métricas e indicadores
 
 El proyecto contempla indicadores para analizar distintas dimensiones
