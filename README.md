@@ -58,9 +58,9 @@ El trabajo se organiza en tres etapas principales:
   Power Query:                         Limpieza y transformación de datos
                                       durante el proceso ETL.
 
- GitHub:                               Control de versiones y
+  GitHub:                               Control de versiones y
                                       documentación del proyecto.
-  -----------------------------------------------------------------------
+
 
 ## Estructura del repositorio
 
