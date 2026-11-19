@@ -173,8 +173,6 @@ no equivale a la ganancia.
 
 -   Incorporar comparaciones entre períodos para medir variaciones de
     facturación y pedidos.
--   Analizar el desempeño por canal de venta, si la fuente contiene esa
-    dimensión.
 -   Profundizar el análisis de clientes para identificar segmentos de
     mayor contribución.
 -   Incorporar costos y márgenes para evaluar rentabilidad, además de
